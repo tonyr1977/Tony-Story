@@ -4,8 +4,5 @@ do you...
 
 [Wake up?](selection-1/wakeup.md)
 
-[Option Two](getready.md)
+[Don't Wake-up](dontwakeup.md)
 
-[Option Three](dontwakeup.md)
-
-[Option Four]( )

@@ -2,7 +2,7 @@ It's a day in the life of a high schooler...
 
 do you...
 
-[Wake up?](wakeup.md)
+[Wake up?](selection-1/wakeup.md)
 
 [Option Two](getready.md)
 
